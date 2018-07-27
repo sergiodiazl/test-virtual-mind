@@ -1,0 +1,4 @@
+El front esta hecho en react.
+EL back,esta en php,hosteado en un servidor gratuito.
+Base de datos es my sql,los datos son de un generador de datos aleatorios;
+hay que correr un servidor node en la carpeta correspondiente (abm o cotizacionb).
